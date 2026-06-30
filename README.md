@@ -117,11 +117,8 @@ FUTURE_DS_02
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
 
-Example:
-
-![Dashboard](dashboard.png)
+![alt text](churndashboard.png)
 
 ---
 
@@ -154,7 +151,7 @@ This repository contains:
 
 ## Author
 
-**Santhi Priya**
+**Kiran Sai**
 
 Data Science & Analytics Intern
 
