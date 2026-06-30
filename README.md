@@ -118,8 +118,7 @@ FUTURE_DS_02
 ## Dashboard Preview
 
 
-![alt text](churndashboard.png)
-
+![Dashboard](churndashboard.png)
 ---
 
 ## Learning Outcomes
@@ -156,3 +155,4 @@ This repository contains:
 Data Science & Analytics Intern
 
 Future Interns
+
